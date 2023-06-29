@@ -53,7 +53,7 @@ https://glamorous-gram-4a2.notion.site/a19866b5e8d14465823e86c851b88be4?v=b89afa
 
 ## ERD
 
-![ERD](https://github.com/itsinseo/springBlog_lv2/assets/87530331/26247d04-60f4-4c49-9bfd-29f7a6d839b7)
+![lv2](https://github.com/itsinseo/springBlog_lv2/assets/87530331/ac6510f7-0d08-4597-9f5d-d96317d6ace9)
 
 ## Why?
 Q1. 처음 설계한 API 명세서에 변경사항이 있었나요?
